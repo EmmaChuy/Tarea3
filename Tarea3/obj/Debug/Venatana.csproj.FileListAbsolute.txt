@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Venatana\Venatana\obj\Debug\Venatana.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Venatana\Venatana\obj\Debug\Venatana.MainForm.resources
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Venatana\Venatana\obj\Debug\Venatana.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Venatana\Venatana\bin\Debug\Venatana.exe
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Venatana\Venatana\bin\Debug\Venatana.pdb
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Venatana\Venatana\obj\Debug\Venatana.exe
+C:\Users\Toshiba\Documents\SharpDevelop Projects\Venatana\Venatana\obj\Debug\Venatana.pdb
+C:\Users\Toshiba\Documents\GitHub\Tarea3\Venatana\Venatana\bin\Debug\Venatana.exe
+C:\Users\Toshiba\Documents\GitHub\Tarea3\Venatana\Venatana\bin\Debug\Venatana.pdb
+C:\Users\Toshiba\Documents\GitHub\Tarea3\Venatana\Venatana\obj\Debug\Venatana.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\GitHub\Tarea3\Venatana\Venatana\obj\Debug\Venatana.MainForm.resources
+C:\Users\Toshiba\Documents\GitHub\Tarea3\Venatana\Venatana\obj\Debug\Venatana.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\GitHub\Tarea3\Venatana\Venatana\obj\Debug\Venatana.exe
+C:\Users\Toshiba\Documents\GitHub\Tarea3\Venatana\Venatana\obj\Debug\Venatana.pdb
